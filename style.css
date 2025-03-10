@@ -1,0 +1,36 @@
+.nav{
+    display: flex;
+    gap: 21px;
+    align-items: center;
+    justify-content: center;
+}
+
+body{
+    background-color: black;
+}
+
+.inp{
+    width: 200;
+height: 44;
+top: 202px;
+left: 423px;
+border-radius: 8px;
+border-width: 1px;
+background-color: azure;
+}
+
+.btn{
+    width: 122;
+height: 44;
+top: 202px;
+left: 865px;
+border-radius: 8px;
+background-color: white;
+}
+
+.contact-card{
+    color: aliceblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
